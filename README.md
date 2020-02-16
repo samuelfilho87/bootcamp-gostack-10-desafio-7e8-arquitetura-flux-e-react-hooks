@@ -20,10 +20,10 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 
 ### Resultado:
 
-<img src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-07/master/.github/demo.gif">
+<img src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-07/master/.github/demo.gif" height="400">
 
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" height="400" />
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
 <h3 align="center">
